@@ -71,7 +71,7 @@ This project implements multiple search algorithms in a single Python script (`m
 ## Running the Code
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/search-algorithms.git
+   git clone https://github.com/RATHISHMANIVANNAN/Graph-Search-Algorithms.git
    cd search-algorithms
    ```
 2. Run the Python script:
